@@ -39,11 +39,6 @@
 
 ## Contact
 
-📧 Email:
-your@email.com
-
-💼 LinkedIn:
-linkedin profile
-
-🌍 Portfolio:
-portfolio website
+📧 Email:sudeeranalaka97@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/sudeera-de-silva/
+🌍 Portfolio: bio.site/SudeeraDE 
