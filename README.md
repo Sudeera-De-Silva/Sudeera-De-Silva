@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi 👋 I'm Sudeera De Silva
 
-<!--
-**Sudeera-De-Silva/Sudeera-De-Silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Mobile Application Developer | Flutter Developer | Kotlin | UI/UX Designer
 
-Here are some ideas to get you started:
+💻 Software Engineer from Sri Lanka
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Bachelor of Computer Science
+
+📱 Flutter & Android Developer
+
+🌐 Learning Go Backend Development
+
+🎨 UI/UX Designer (Figma)
+
+🚀 Passionate about building beautiful and scalable mobile applications.
+
+## Technologies
+
+- Flutter
+- Dart
+- Kotlin
+- Java
+- Go
+- MySQL
+- Firebase
+- MongoDB
+- REST API
+- Git
+- Docker
+- Figma
+
+## Current Learning
+
+- Go Backend
+- Docker
+- Kubernetes
+- Clean Architecture
+- Microservices
+
+## Contact
+
+📧 Email:
+your@email.com
+
+💼 LinkedIn:
+linkedin profile
+
+🌍 Portfolio:
+portfolio website
