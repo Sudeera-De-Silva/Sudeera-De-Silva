@@ -20,6 +20,7 @@ Passionate and results-driven Software Engineer with 2+ years of experience in M
 - 🔗 Portfolio: https://bio.site/SudeeraDE
 - 💼 LinkedIn: https://www.linkedin.com/in/sudeera-de-silva/
 - GitHub: https://github.com/Sudeera-De-Silva
+- Company GitHub: https://github.com/GarudanDevPack 
 
 ---
 
