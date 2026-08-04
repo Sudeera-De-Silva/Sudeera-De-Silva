@@ -27,7 +27,7 @@ Passionate and results-driven Software Engineer with 2+ years of experience in M
 ## Animated Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sudeera-De-Silva&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sudeera-De-Silva&show_icons=true&theme=radical" alt="GitHub stats"/>
 </p>
 
 ---
