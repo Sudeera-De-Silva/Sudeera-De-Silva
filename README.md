@@ -226,7 +226,7 @@ Passionate and results-driven Software Engineer with 2+ years of experience in *
 
 <p align="center">
   <img src="https://img.shields.io/badge/Diploma%20in%20IT-2nd%20Upper-00C853?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Diploma%20in%20English-Passed-00C853?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Diploma%20in%20English-'A'Passed-00C853?style=for-the-badge" />
 </p>
 
 ---
