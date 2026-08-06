@@ -42,10 +42,10 @@ Passionate and results-driven Software Engineer with 2+ years of experience in *
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sudeera-De-Silva&show_icons=true&theme=radical&bg_color=0d1117&border_color=00C853" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudeera-De-Silva&layout=compact&theme=radical&bg_color=0d1117&border_color=00C853" alt="Top Languages" width="40%" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudeera-De-Silva&theme=radical&background=0d1117&border=00C853" alt="GitHub Streak" width="55%" />
